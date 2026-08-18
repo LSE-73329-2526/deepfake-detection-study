@@ -7,7 +7,8 @@ students in Metro Manila, Philippines.
 ## Files
 - `Survey_Instrument.pdf` — survey deployed in the study, pdf file
 - `Survey_Instrument.qsf` — survey deployed in the study, qsf file
-- `analysis_code.ipynb` — code for all analysis, tables, and figures 
+- `analysis_code.ipynb` — code for all analysis, tables, and figures
+- `Incentive_Google_Form.pdf` - google form deployed for monetary incentive in survey
 
 ## Note
 Raw survey data is not included due to respondent anonymity commitments 
