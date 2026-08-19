@@ -1,6 +1,6 @@
 # Deepfake Detection, Media Literacy, and Media Dependency (Scope & Centrality)
 
-Analysis code for dissertation examining associations between media literacy, 
+Supplementary material for dissertation examining associations between media literacy, 
 media dependency, and deepfake detection ability among Gen Z university 
 students in Metro Manila, Philippines.
 
